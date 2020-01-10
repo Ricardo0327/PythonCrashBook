@@ -8,7 +8,7 @@ class User():
 
     def greet_user(self):
         print("Hello,"+self.last_name+" "+self.first_name)
-
+'''
 user1=User('hong','li')
 user2=User('hua','li')
 user3=User('ye','wu')
@@ -18,4 +18,5 @@ user3.describe_user()
 user1.greet_user()
 user2.greet_user()
 user3.greet_user()
+'''
 
